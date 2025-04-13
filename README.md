@@ -32,7 +32,7 @@ A simple automation bot to farm Scan2Earn points on PolyFlow by continuously upl
    Make sure your image is named `IMAGE.jpg` and placed in the root folder.
 
 4. **Get your Bearer Token**  
-   - Visit: [PolyFlow App](https://app.polyflow.tech/?refCode=5C50AB28D9)
+   - Visit: [PolyFlow App](https://app.polyflow.tech/?refCode=B1F2E045E9)
    - Open **DevTools** > **Console**
    - Run:
 
